@@ -7,7 +7,7 @@
         "id": "a9d5c42647da856c",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -120,6 +120,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a9d5c42647da856c",
-  "lastOpenFiles": []
+  "active": "53466ba79d539240",
+  "lastOpenFiles": [
+    "ResearchQuestion/Question 1 - How to define variables based on stock time series.md",
+    "Methods/Vijh, 2020 - Stock Closing Price Prediction using Machine Learning Techniques.md",
+    "Methods/Chong, 2008 - Technical analysis and the London stock exchange testing the MACD and RSI rules using the FT30.md",
+    "Methods/Articles/1-s2.0-S1877050920307924-main.pdf"
+  ]
 }
